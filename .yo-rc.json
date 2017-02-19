@@ -1,0 +1,23 @@
+{
+  "generator-fountain-angular1": {
+    "version": "1.0.0-rc2",
+    "props": {
+      "css": "scss",
+      "namespace": "fountain-angular1:app",
+      "resolved": "/home/taro/.nvm/versions/node/v5.7.0/lib/node_modules/generator-fountain-angular1/generators/app/index.js",
+      "modules": "webpack",
+      "framework": "angular1",
+      "argv": {
+        "remain": [],
+        "cooked": [],
+        "original": []
+      },
+      "ci": [
+        "circleci"
+      ],
+      "js": "babel",
+      "sample": "hello",
+      "router": "uirouter"
+    }
+  }
+}
